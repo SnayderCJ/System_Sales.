@@ -1,0 +1,18 @@
+[
+  {
+    "Invoice": null,
+    "Date": "2024-09-01",
+    "Client": {
+      "Nombre": "Gabriel",
+      "Apellido": "Hasqui",
+      "DNI": "0951777838",
+      "Valor": 0.1
+    },
+    "Subtotal": 1.0,
+    "Discount": 0.1,
+    "Iva": 0.11,
+    "Total": 1.01,
+    "details": [{ "Product": "fresas", "Price": 1.0, "Quantity": 1 }],
+    "factura": "F0000001"
+  }
+]
